@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work.
 Sample website with plenty of files for demos
 
 ## Colaborate
-Do some work you lazy MF. Fill time.
+Be nice and work.
